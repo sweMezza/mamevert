@@ -1,6 +1,4 @@
-Forked from https://github.com/darvs/mamevert (thanks!).
-
-to create a python version.
+Forked from https://github.com/darvs/mamevert (thanks!) to create a python version.
 
 # MAMEVERT
 
